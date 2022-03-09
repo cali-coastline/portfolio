@@ -13,10 +13,10 @@ function Navbar() {
         <div className="logo"></div>
         <div className="links">
           <Link href="/">
-            <a href="/">Home</a>
+            <a>Home</a>
           </Link>
           <Link href="/about">
-            <a href="/about">About</a>
+            <a>About</a>
           </Link>
         </div>
         <div className="social"></div>
