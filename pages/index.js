@@ -2,7 +2,7 @@ import Hero from '../components/hero/Hero'
 import Layout from '../components/layout/Layout';
 import Card from '../components/card/Card';
 import SectionBreak from '../components/sectionbreak/SectionBreak'
-import ContactForm from '../components/contactForm/contactForm';
+import ContactForm from '../components/contactForm/ContactForm';
 
 function Home(){
   return (
